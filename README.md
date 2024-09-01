@@ -1,6 +1,5 @@
 🚀 Machine Learning  | 📊 Data Science Enthusiast | 👨‍💻 C/C++ Developer | 🧩 Problem Solver
 
-🎵 Music Enthusiast | 🎸 Guitarist | 🪘 Tabla Player
 
 👋 Hello there! I'm Aditya Sangole, a dedicated in the field of Machine Learning and Data Science. When I'm not diving into data or crafting models, you'll find me immersed in the world of music as a hobby.
 
